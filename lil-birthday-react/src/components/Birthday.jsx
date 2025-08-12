@@ -43,10 +43,16 @@ function BirthdayCard() {
         </section>
         <section className="video-section">
           <h2 className="section-title">Քեզ համար նվեր...</h2>
-          <video controls className="birthday-video">
-            <source src="your-video.mp4" type="video/mp4" />
-            Ձեր բրաուզերը չի աջակցում տեսանյութի թեգին։
-          </video>
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/IYLmNLyXg0I?autoplay=1"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
         </section>
       </main>
       <footer className="main-footer">
