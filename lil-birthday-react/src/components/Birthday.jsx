@@ -15,7 +15,7 @@ function BirthdayCard() {
         <div className="card">
           <div className="card-image-container">
             <img
-              src="https://scontent.fevn6-5.fna.fbcdn.net/v/t39.30808-6/526617952_4312315735580855_1350021596918552277_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=gSsgmqTjSMsQ7kNvwHnmcuO&_nc_oc=AdknmxczOPKe4bZ9_ZHMNIeF77N6AfBUc5OpC97cK3vioYjCoObWa0uIp1A6qLRdp5s&_nc_zt=23&_nc_ht=scontent.fevn6-5.fna&_nc_gid=MckZJjx3LYJ0O8twsTYeqg&oh=00_AfUorvCk4Vo38bqk5KqXJJlUs1Rj3UVBO_awIFYV--sOaQ&oe=68A0D6AC"
+              src="C:\Users\User\Desktop\Lil Birthday-react\lil-birthday-react\src\assets\Lilit-img.jpg"
               alt="Поздравительная картинка"
             />
           </div>
