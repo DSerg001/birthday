@@ -2,6 +2,7 @@ import "./style.css";
 import image1 from "../assets/photo_5249191399063155964_y.jpg";
 import image2 from "../assets/photo_5249191399063155963_x.jpg";
 import image3 from "../assets/photo_5249191399063155965_x.jpg";
+import lilitImage from "../assets/Lilit-img.jpg";
 
 function BirthdayCard() {
   return (
@@ -14,10 +15,7 @@ function BirthdayCard() {
       <main className="main-content">
         <div className="card">
           <div className="card-image-container">
-            <img
-              src="C:\Users\User\Desktop\Lil Birthday-react\lil-birthday-react\src\assets\Lilit-img.jpg"
-              alt="Поздравительная картинка"
-            />
+            <img src={lilitImage} alt="Поздравительная картинка" />
           </div>
           <div className="card-content">
             <h3>Շնորհավոր Ծնունդդ, իմ շատ սիրելի Լիլիթ!</h3>
